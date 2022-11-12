@@ -2,12 +2,13 @@ title = "Adel Bibi"
 baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
-
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 9 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+disqusShortname = 'Adel Bibi'
+
 
 [languages]
   [languages.en]
@@ -33,4 +34,12 @@ enableRobotsTXT = true
 
 [[params.ananke_socials]]
 name = "twitter"
-url = "https://twitter.com/adel_bibi"
+url = "https://twitter.com/adelbibi"
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/adelbibi"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/adelbibi"
